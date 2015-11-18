@@ -1,1 +1,1 @@
-"Hello Git. This is handson!" 
+"Hello Git. This is handson." 
